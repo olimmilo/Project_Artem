@@ -1,10 +1,6 @@
-def findfactorlin(iteration, slope, intercept):
-	return
-def findfactorpoly():
-	return
-def findfactorinvpoly():
-	return
-def findfactorrat():
-	return
-def findfactorsin():
-	return
+xbound=6
+number=6
+rho="quad"
+eta="root"
+"""eta calc"""
+etaA=-
