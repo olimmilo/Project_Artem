@@ -1,2 +1,2 @@
-# Project_Artem
+# Project Aevum
 IDE for creating notes with linear and non-linear undertone to volume correspondence and as well as linear and non-linear undertone selection rates
