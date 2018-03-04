@@ -17,10 +17,11 @@
 	</header>
 
 	<body>
-
-		<div>
-			<p>applet</p>
-		</div>
+		<canvas id="a" width="200" height="200">
+			This text is displayed if your browser does not support HTML5 Canvas.
+		</canvas>
+		
+		<script type='text/javascript' src='/aevum/scripts/script.js'></script>
 
 	</body>
 	
