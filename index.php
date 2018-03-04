@@ -14,14 +14,13 @@
 	</head>
 	
 	<header>
-		<div class=backbtn">
-			<a href="/.">Back</a>
-		</div>
 	</header>
 
 	<body>
 
-		
+		<div>
+			<p>applet</p>
+		</div>
 
 	</body>
 	
